@@ -1,0 +1,34 @@
+alias  		else		module		super
+and		elsif		next		then
+BEGIN		END		nil		true
+begin		end		not		undef
+break		ensure		or		unless
+case		false		redo		until
+class		for		rescue		when
+def		if		retry		while
+defined?	in		return		yield
+do		__LINE__	self
+
+
+		Iteration			control flow
+do			yield	   |	if		case
+until			next	   |	else		when
+while			for	   |	elsif		then
+			in	   |	unless
+
+
+	block & exception handling	Class & module
+
+return		redo		  |	module		undef
+begin		break		  |	class		define
+rescue		ensure		  |	def		alias
+		retry		  |			super
+
+	conditional			Truty / boolean
+
+and 	or 	not		  |	true false nill
+
+
+	scope				FILE
+
+	self			  | BEGIN	END 	LINE
