@@ -1,0 +1,5 @@
++
+
+class Salamender extends Animals{
+    
+}

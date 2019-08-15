@@ -1,4 +1,4 @@
 
-public class Cat {
+class Cat extends Animals{
 
 }

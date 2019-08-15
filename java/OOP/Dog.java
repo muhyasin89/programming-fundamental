@@ -1,4 +1,4 @@
 
-public class Dog {
+class Dog extends Animal{
 
 }
