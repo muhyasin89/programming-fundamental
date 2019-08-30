@@ -1,4 +1,0 @@
-
-public Bird extends Animals{
-
-}
