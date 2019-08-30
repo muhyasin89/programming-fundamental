@@ -1,7 +1,6 @@
 
 
 
-
 interface Earth{
     public void consistof() //earth or sea
     public void weather()
