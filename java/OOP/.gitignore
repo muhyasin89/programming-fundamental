@@ -1,2 +1,6 @@
-.vscode
-/.vscode
+.classpath
+.project
+.settings/
+.vscode/
+
+/opp/.project
