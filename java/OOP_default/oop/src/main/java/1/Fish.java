@@ -1,0 +1,5 @@
+
+
+class Fish extends Animals{
+    
+}

@@ -1,0 +1,6 @@
+class Sea{
+    public:
+        Sea() {
+            
+        }   
+}

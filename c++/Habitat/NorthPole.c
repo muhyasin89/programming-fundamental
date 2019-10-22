@@ -1,0 +1,6 @@
+class NorthPole{
+    public:
+        NorthPole() {
+            
+        }
+}

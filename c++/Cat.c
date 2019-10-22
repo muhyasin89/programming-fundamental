@@ -1,0 +1,6 @@
+class Cat{
+    public:
+        Cat(){
+
+        }
+}

@@ -1,0 +1,6 @@
+class Fish{
+    public:
+        Fish(){
+
+        }
+}

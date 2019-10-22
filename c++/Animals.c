@@ -1,0 +1,6 @@
+class Animals{
+    public:
+        Animals(){
+
+        }
+}

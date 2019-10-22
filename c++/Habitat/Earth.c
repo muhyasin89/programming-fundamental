@@ -1,0 +1,6 @@
+class Earth{
+    public:
+        Earth(){
+            
+        }
+}

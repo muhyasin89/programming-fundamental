@@ -1,0 +1,6 @@
+class Salamender{
+    public:
+    Salamender(){
+        
+    }
+}

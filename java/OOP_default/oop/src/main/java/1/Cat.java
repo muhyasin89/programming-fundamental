@@ -1,0 +1,4 @@
+
+class Cat extends Animals{
+
+}

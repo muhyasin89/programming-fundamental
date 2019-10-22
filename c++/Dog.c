@@ -1,0 +1,6 @@
+class Dog{
+    public:
+        Dog(){
+            
+        }
+}

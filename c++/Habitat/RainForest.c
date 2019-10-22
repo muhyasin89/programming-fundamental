@@ -1,0 +1,6 @@
+class RainForest{
+    public:
+        RainForest(){
+            
+        }
+}
