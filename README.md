@@ -15,6 +15,7 @@ Python Note:
 New Concept:
 Shallow Copy vs Deep Copy
 https://we-are.bookmyshow.com/understanding-deep-and-shallow-copy-in-javascript-13438bad941c
+https://stackoverflow.com/questions/184710/what-is-the-difference-between-a-deep-copy-and-a-shallow-copy
 
 SOLID
 <h4>https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design</h4>
